@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <string.h>
+#include <conio.h>
+#include <stdlib.h>
 
 #define MAX_PATIENTS 5
 #define MAX_HISTORY 3
